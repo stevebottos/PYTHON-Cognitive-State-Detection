@@ -3,6 +3,6 @@ An identical implementation of MATLAB-Cognitive-State-Detection's Neural Network
 
 ## A Quick Note
 
-This repo is a bit sparse, for full context and a full description, please check out the main codebase (the Matlab implementation). The main purpose of this repo is to provide code that is intended to assist anybody making the transition from Matlab to Python. There were a lot of requests from friends to give an example on how to write a Neural Network in Python. I plan to also upload a Tensorflow example. 
+This repo is a bit sparse, for full context and a full description, please check out the main codebase (the Matlab implementation). The main purpose of this repo is to provide code that is intended to assist anybody making the transition from Matlab to Python, and to showcase how a Neural Network may be implemented from scratch in Python with mostly home made functions. There were a lot of requests from friends to give an example on how to write a Neural Network in Python. I plan to also upload a Tensorflow example. 
 
 This repo contains the code for the Neural Net as well as the data used to train and test.
